@@ -22,6 +22,8 @@
 
 
 
+<h3 align="left">Languages & Tool's</h3>
+
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=fff">  <img src="https://img.shields.io/badge/-Node-339933?logo=node.JS&logoColor=fff">  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff">  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff">
 
 
