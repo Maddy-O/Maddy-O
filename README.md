@@ -1,19 +1,25 @@
-### Hi there 👋
+<h1 align="center">Namaste <span>&#128591;&#127995;</span>, I am Madan Mohan</h1>
+<h3 align="center">A passionate Web developer and a Learner</h3>
 
-<!--
-**Maddy-O/Maddy-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Maddy-O&label=Profile%20views&color=0e75b6&style=flat" alt="Maddy-O" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... Instacart (clone)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ... **MERN Stack, JavaScript**
+
+- 👯 I’m looking to collaborate on ... Walmart (clone)
+
+- 🤔 I’m looking for help with ... React.JS
+
+- 💬 Ask me about ... MERN, DSA
+
+- 📫 How to reach me: ... **[LinkedIn](www.linkedin.com/in/maddy-o), [Email](madandoor7s@gmail.com)**
+
+- 😄 Pronouns: ... He/His
+
+- ⚡ Fun fact: ... I am a fitness enthusiasts
+
+
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=fff">  <img src="https://img.shields.io/badge/-Node-339933?logo=node.JS&logoColor=fff">  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff">  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff">
 
 
@@ -23,4 +29,5 @@ Here are some ideas to get you started:
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maddy-O&count_private=true&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MADDY-O&show_icons=true&theme=radical)
