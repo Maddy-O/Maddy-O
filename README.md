@@ -13,7 +13,7 @@
 
 - 💬 Ask me about ... MERN, DSA
 
-- 📫 How to reach me: ... **[LinkedIn](www.linkedin.com/in/maddy-o), [Email](madandoor7s@gmail.com)**
+- 📫 How to reach me: ... **[LinkedIn](www.linkedin.com/in/maddy-o)**
 
 - 😄 Pronouns: ... He/His
 
