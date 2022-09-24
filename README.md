@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on ... zoomcar (clone)
 
-- 🌱 I’m currently learning ... **MERN Stack, JavaScript**
+- 🌱 I’m currently learning ... **MERN Stack, typescript, TailwindCSS**
 
-- 👯 I’m looking to collaborate on ... Walmart (clone)
-
-- 🤔 I’m looking for help with ... React.JS
+- 🤔 I’m looking for help with ... typescript
 
 - 💬 Ask me about ... MERN, DSA
 
