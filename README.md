@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maddy-O&label=Profile%20views&color=0e75b6&style=flat" alt="Maddy-O" /> </p>
 
 
-- 🌱 I’m currently learning ... **MERN Stack, typescript, TailwindCSS**
+- 🌱 I’m currently learning ... **MERN Stack, typescript, TailwindCSS, AngularJS**
 
-- 🤔 I’m looking for help with ... typescript
+- 🤔 I’m looking for help with ... typescript, AngularJs
 
 - 💬 Ask me about ... MERN, DSA
 
