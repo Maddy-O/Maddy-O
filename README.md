@@ -1,86 +1,110 @@
 <h1 align="center">👋 Namaste, I'm Madan Mohan</h1>
-<h3 align="center">Frontend Developer | React.js | TypeScript | Node.js | AI SaaS Builder</h3>
+<h3 align="center">Frontend Engineer | React.js • TypeScript • Scalable Systems • Performance Optimization</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maddy-O&label=Profile%20views&color=0e75b6&style=flat" alt="Maddy-O" />
 </p>
 
-
-
 ---
 
-## 👨‍💻 About Me  
+## 🚀 About Me  
 
-- 🚀 **Associate Software Engineer at Indus Valley Partners (Dec 2022 – Mar 2025)**  
-- 💻 2+ years of experience building **scalable, maintainable web applications** using **React.js, TypeScript, and Redux**  
-- ⚡ Skilled in **performance optimization, API integrations, and reusable component design**  
-- 🧠 Currently building an **AI Content Repurposing SaaS Platform** using **Next.js, TypeScript, Supabase, and OpenAI APIs**  
-- 🧩 Passionate about **clean architecture, DevOps automation, and AI-driven productivity**  
+- 💼 **Frontend Engineer with 3+ years of experience** building scalable, high-performance web applications  
+- ⚡ Specialized in **performance optimization, large-scale data handling (200K+ records), and frontend architecture**  
+- 🧠 Strong focus on **clean architecture, reusable systems, and scalable UI design**  
+- 🤖 Currently building an **AI SaaS platform** using modern full-stack and serverless technologies  
+- 📈 Proven impact:
+  - 🚀 Improved performance by **60%**
+  - 📉 Reduced technical debt by **30%**
+  - 🧪 Increased test coverage from **0% → 85%+**
 
 ---
 
 ## 💼 Professional Experience  
 
-### **Indus Valley Partners | Associate Software Engineer**  
-📍 *Noida, India | Dec 2022 – Mar 2025*  
+### **Software Engineer | Onetick Technologies**  
+📍 *India | Sep 2025 – Present*  
 
-- 🚀 Migrated a legacy app to **React.js + TypeScript**, reducing technical debt by **30%** and improving feature delivery speed by **20%**  
-- ⚙️ Optimized **AG Grid** to handle **200K+ records**, boosting rendering speed by **60%**  
-- 🧩 Developed **15+ reusable UI components** and standardized API integrations, cutting onboarding time by **50%**  
-- 🧪 Expanded test coverage from **0% to 85%** using **Jest & React Testing Library**, reducing production bugs by **40%**  
-- 🔄 Accelerated release cycles by **30%** through CI/CD improvements and reviewing **100+ pull requests**  
+- 🏗 Designed scalable frontend architecture using **React.js & TypeScript**  
+- 🧩 Built reusable component library improving dev efficiency by **25%**  
+- 🔌 Developed centralized API layer with **error handling & retry mechanisms**  
+- ⚡ Optimized performance using **memoization, lazy loading, and rendering strategies**  
+- 🧪 Improved test coverage from **0% → 80%+**  
+
+---
+
+### **Associate Software Engineer | Indus Valley Partners**  
+📍 *Noida, India | Dec 2022 – Apr 2025*  
+
+- 🚀 Led migration to **React.js + TypeScript**, reducing technical debt by **30%**  
+- ⚙️ Optimized **AG Grid (200K+ records)** improving performance by **60%**  
+- 🧩 Built reusable component systems improving development speed by **50%**  
+- 🔄 Reduced API calls by **25%** using interceptors and caching strategies  
+- 🧪 Achieved **85%+ test coverage** and resolved **100+ code quality issues**  
 
 ---
 
 ## 🧠 Featured Project  
 
-### **AI Content Repurposing SaaS Platform**  
+### 🔥 Real-Time Analytics Dashboard (Production-Level)
+> Scalable frontend system handling large datasets with real-time updates  
+
+- 📊 Built high-performance dashboard handling **200K+ records** using virtualization  
+- ⚡ Implemented **real-time updates (WebSockets)** with optimized rendering  
+- 🧠 Reduced re-renders using **memoization & efficient state management**  
+- 🔌 Designed centralized API layer with retry & error handling  
+- 📈 Achieved **90+ Lighthouse performance score**  
+
+---
+
+### 🤖 AI Content Repurposing SaaS Platform  
 👨‍💻 *Founder & Full-Stack Developer (Apr 2025 – Present)*  
 
-- Built with **Next.js, TypeScript, Tailwind CSS, Supabase, and OpenAI APIs**  
-- Architected **serverless & multi-tenant** backend capable of supporting **100+ concurrent workloads**  
-- Automated **CI/CD pipelines and deployments** to accelerate MVP delivery by **30%**  
-- Currently preparing **private beta launch with 5+ enterprise clients (Q4 2025)**  
-
-🧩 **Tech Highlights:** Cursor AI · Next.js · TypeScript · Supabase · OpenAI API · Serverless Architecture · CI/CD  
+- Built using **Next.js, TypeScript, Supabase, OpenAI APIs**  
+- Designed **serverless, multi-tenant architecture** supporting scalable workloads  
+- ⚙️ Automated **CI/CD pipelines** reducing deployment time by **30%**  
+- 🚀 Preparing **private beta launch with early users**  
 
 ---
 
 ## 🛠 Tech Stack  
 
 ### **Frontend**
-React.js · Next.js · Redux · Context API · TypeScript · JavaScript · Tailwind CSS · Styled Components · AG Grid  
+React.js · Next.js · Redux Toolkit · TypeScript · Tailwind CSS · AG Grid  
 
-### **Backend & Database**
-Node.js · Express.js · REST APIs · Supabase (PostgreSQL)  
+### **Architecture & Performance**
+Scalable Architecture · Design Patterns · Memoization · Code Splitting · Lazy Loading  
+
+### **Backend & Data**
+Node.js · Express.js · REST APIs · PostgreSQL · MongoDB  
 
 ### **Testing & Quality**
-Jest · React Testing Library · Cypress · SonarQube  
+Jest · React Testing Library · Code Coverage (80%+) · SonarQube  
 
 ### **DevOps & Tools**
-Git · GitHub · Azure Boards · Docker · Webpack · CI/CD Pipelines · Agile/Scrum  
+Git · Docker · CI/CD · Azure Boards · Webpack  
 
 ---
 
 ## 🌱 Currently Exploring  
 
-- 🧩 **Cloud Architecture (AWS, Azure)**  
-- 🤖 **AI Integrations (OpenAI, Cursor AI)**  
-- ⚡ **System Design & Scalability**  
+- ☁️ **System Design & Scalable Frontend Architecture**  
+- 🤖 **AI + Automation Systems (OpenAI, Cursor AI)**  
+- ⚡ **Performance Engineering & Web Vitals**  
 
 ---
 
 ## 📫 Connect With Me  
 
-- ✉️ [madandoor7s@gmail.com](mailto:madandoor7s@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/maddy-o)  
-- 🧑‍💻 [GitHub](https://github.com/Maddy-O)  
+- ✉️ **Email:** [madandoor7s@gmail.com](mailto:madandoor7s@gmail.com)  
+- 💼 **LinkedIn:** https://linkedin.com/in/maddy-o  
+- 🧑‍💻 **GitHub:** https://github.com/Maddy-O  
 
 ---
 
 ## ⚡ Fun Fact  
 
-> I believe in “Building fast, optimizing faster.”  
-> When I’m not coding, you’ll find me lifting weights 🏋️‍♂️ or experimenting with AI tools 🤖  
+> I don’t just build UI — I build **scalable systems that perform under pressure** ⚡  
+> Outside tech, I enjoy fitness 🏋️‍♂️ and experimenting with AI tools 🤖  
 
 ---
