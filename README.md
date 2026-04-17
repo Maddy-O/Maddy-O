@@ -87,11 +87,6 @@ I go by **codemaddy** across dev communities and **Maddy-O** on GitHub. I care a
 - Real-time call streaming via WebSockets + Twilio voice integration
 - Interactive Recharts dashboards with date-range filtering and Excel export
 
-### [CouplePlayHub](https://github.com/Maddy-O/coupleplayhub) -- [Live Demo](https://coupleplayhub.netlify.app/)
-> Fun interactive web app with games designed for couples
-
-**Stack:** Next.js / TypeScript / React / Tailwind CSS
-
 ---
 
 ## GitHub Stats
