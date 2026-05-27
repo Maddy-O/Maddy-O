@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Maddy-O">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Software+Engineer+%7C+React.js+%7C+TypeScript;Full-stack+apps+%7C+Fintech+%7C+Enterprise;3%2B+years+%7C+Performance+%7C+Architecture" alt="Madan Mohan - Software Engineer, React.js, TypeScript" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Software+Engineer+%7C+React.js+%7C+TypeScript;Full-stack+apps+%7C+Fintech+%7C+Enterprise;3%2B+years+%7C+Performance+%7C+Architecture" alt="Madan Mohan - Software Engineer, React.js, TypeScript" />
   </a>
 </p>
 
