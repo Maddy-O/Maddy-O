@@ -1,36 +1,30 @@
-<!-- ============================================== -->
-<!-- Madan Mohan | @Maddy-O | codemaddy            -->
-<!-- Frontend Engineer | React.js | TypeScript      -->
-<!-- GitHub Profile README — SEO-optimized          -->
-<!-- ============================================== -->
-
 # Namaste, I'm Madan Mohan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Madan Mohan waving hello">
 
 <p align="center">
   <a href="https://github.com/Maddy-O">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Frontend+Engineer+%7C+React.js+%7C+TypeScript;Building+scalable+fintech+%26+enterprise+UIs;3%2B+years+%7C+Performance+%7C+Architecture" alt="Madan Mohan - Frontend Engineer, React.js, TypeScript, codemaddy" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Software+Engineer+%7C+React.js+%7C+TypeScript;Full-stack+apps+%7C+Fintech+%7C+Enterprise;3%2B+years+%7C+Performance+%7C+Architecture" alt="Madan Mohan - Software Engineer, React.js, TypeScript" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maddy-o/"><img src="https://img.shields.io/badge/LinkedIn-maddy--o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Madan Mohan LinkedIn" /></a>
-  <a href="mailto:madandoor7s@gmail.com"><img src="https://img.shields.io/badge/Email-madandoor7s-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Madan Mohan Email" /></a>
-  <a href="https://maddy-portfolio-site.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-maddy--portfolio-1F4E79?style=for-the-badge&logo=netlify&logoColor=white" alt="Madan Mohan Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/madanmohan-dev/"><img src="https://img.shields.io/badge/LinkedIn-madanmohan--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Madan Mohan LinkedIn" /></a>
+  <a href="mailto:madanmohan.works@gmail.com"><img src="https://img.shields.io/badge/Email-madanmohan.works-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Madan Mohan Email" /></a>
+  <a href="https://madanmohan-works.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-madanmohan.works-1F4E79?style=for-the-badge&logo=netlify&logoColor=white" alt="Madan Mohan Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=Maddy-O&label=Profile+Views&color=1F4E79&style=for-the-badge" alt="Madan Mohan GitHub profile views" />
 </p>
 
 ---
 
-## About Madan Mohan (@Maddy-O / codemaddy)
+## About Me
 
-**Frontend Engineer** with **3+ years** of professional experience building high-performance, scalable web applications using **React.js**, **TypeScript**, and **Next.js**. Currently a **Software Engineer at Onetick Technologies**, Noida, India. Previously at **Indus Valley Partners** (fintech), where I shipped trading-desk UIs handling **200K+ row datasets** with **60% rendering performance gains**.
+**Software Engineer** with **3+ years** building production-grade, full-stack web applications using **React.js**, **TypeScript**, and **Next.js**. Currently at **Onetick Technologies**, Noida. Previously at **Indus Valley Partners** (fintech), where I shipped trading-desk UIs handling **200K+ row datasets** with **60% rendering performance gains**.
 
-I go by **codemaddy** across dev communities and **Maddy-O** on GitHub. I care about **performance**, **clean architecture**, **test-driven development**, and building UIs that don't make users wait.
+I care about **performance**, **clean architecture**, **test-driven development**, and building features that work end-to-end — from UI to API to database.
 
-- Working on **enterprise fintech platforms** and **government-scale systems**
 - Scaled test coverage from **0% to 90%** across two production codebases
 - Resolved **120+ SonarQube violations** in production
-- Building **PICS** — an AI-powered prison voice monitoring system with real-time WebSocket streaming
+- Reduced initial bundle size by **30%** via code splitting and lazy loading
+- Building **PICS** — an AI-powered real-time voice monitoring system with WebSocket streaming
 
 ---
 
@@ -71,21 +65,21 @@ I go by **codemaddy** across dev communities and **Maddy-O** on GitHub. I care a
 
 | Role | Company | Period | Key Impact |
 |------|---------|--------|------------|
-| **Software Engineer** | Onetick Technologies, Noida | Sep 2025 - Present | Reusable component library, ~30% bundle size reduction, 80% test coverage |
-| **Associate Software Engineer** | Indus Valley Partners, Noida | Dec 2022 - Apr 2025 | React + TS migration, AG Grid for 200K+ rows (60% perf gain), 0 to 90% test coverage |
+| **Software Engineer** | Onetick Technologies, Noida | Sep 2025 – Present | Reusable component library, ~30% bundle reduction, 80% test coverage |
+| **Associate Software Engineer** | Indus Valley Partners, Noida | Dec 2022 – Apr 2025 | React + TS migration, AG Grid for 200K+ rows (60% perf gain), 0→90% test coverage |
 
 ---
 
-## Featured Projects
+## Featured Project
 
-### PICS -- AI Prison Voice Monitoring System
+### PICS — AI Prison Voice Monitoring System
 > Real-time prison call monitoring platform with multi-role access control
 
-**Stack:** Next.js 16 (App Router, SSR) / React 19 / TypeScript / Node.js / Express / MongoDB / WebSockets / Twilio / AWS S3
+**Stack:** Next.js · React · TypeScript · Node.js · Express · MongoDB · WebSockets · Twilio · AWS S3
 
-- Multi-role RBAC platform (Super Admin / Admin / Prisoner) with audit logging
+- Multi-role RBAC platform (Super Admin / Admin / Prisoner) with audit logging and Excel export
 - Real-time call streaming via WebSockets + Twilio voice integration
-- Interactive Recharts dashboards with date-range filtering and Excel export
+- Interactive Recharts dashboards with date-range filtering and JWT-secured REST API
 
 ---
 
@@ -110,30 +104,19 @@ I go by **codemaddy** across dev communities and **Maddy-O** on GitHub. I care a
 
 ---
 
-## Connect with Madan Mohan
+## Let's Connect
 
-I'm open to **Senior Frontend Engineer** and **React.js / TypeScript** roles across India and remote. Let's connect:
+Open to **Senior Frontend**, **Full Stack**, and **Software Engineer** roles across India and remote.
 
 | Platform | Link |
 |----------|------|
-| **LinkedIn** | [linkedin.com/in/maddy-o](https://www.linkedin.com/in/maddy-o/) |
+| **LinkedIn** | [linkedin.com/in/madanmohan-dev](https://www.linkedin.com/in/madanmohan-dev/) |
 | **GitHub** | [github.com/Maddy-O](https://github.com/Maddy-O) |
-| **Email** | [madandoor7s@gmail.com](mailto:madandoor7s@gmail.com) |
-| **Portfolio** | [maddy-portfolio-site.netlify.app](https://maddy-portfolio-site.netlify.app/) |
-| **Medium** | [@madandoor7s](https://medium.com/@madandoor7s) |
+| **Email** | [madanmohan.works@gmail.com](mailto:madanmohan.works@gmail.com) |
+| **Portfolio** | [madanmohan-works.netlify.app](https://madanmohan-works.netlify.app/) |
 
 ---
 
 <p align="center">
-  <i>"Performance is not an afterthought — it's a feature." — Madan Mohan (codemaddy)</i>
+  <i>"Performance is not an afterthought — it's a feature."</i>
 </p>
-
-<!-- 
-  SEO Keywords (hidden, but indexed by crawlers in raw markdown):
-  Madan Mohan, codemaddy, Maddy-O, maddy-o, Frontend Engineer, React Developer,
-  TypeScript Developer, Next.js Developer, Software Engineer India, Noida,
-  React.js, JavaScript, Web Developer, Fintech Engineer, MERN Stack Developer,
-  Madan Mohan GitHub, Madan Mohan React, Madan Mohan Frontend Engineer,
-  Madan Mohan Software Engineer, Madan Mohan Noida, Madan Mohan Onetick,
-  Madan Mohan Indus Valley Partners, codemaddy GitHub, codemaddy React
--->
